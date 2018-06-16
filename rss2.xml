@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>William Pring</title>
+    <link>http://blog.williampring.com/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 16 Jun 2018 19:25:06 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Using A Mac Full Time</title>
+      <link>http://blog.williampring.com/2018/06/16/Using-A-Mac-Full-Time/</link>
+      <guid>http://blog.williampring.com/2018/06/16/Using-A-Mac-Full-Time/</guid>
+      <pubDate>Sat, 16 Jun 2018 18:33:29 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Five month ago I bought a 2017 Macbook Pro with the Touch Bar and have been using it for full time as daily computer. I will be talking about my opinion about the machine, what I like and dislike about it and some software that I used for my work environment.&lt;br&gt;
+      
+      </description>
+      
+      <comments>http://blog.williampring.com/2018/06/16/Using-A-Mac-Full-Time/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Internship Reflection</title>
+      <link>http://blog.williampring.com/2017/09/02/Internship-Reflection/</link>
+      <guid>http://blog.williampring.com/2017/09/02/Internship-Reflection/</guid>
+      <pubDate>Sat, 02 Sep 2017 22:09:39 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Today, I have finished my last Co-op term at Manulife. In total I completed four Co-op terms(16 months). During these, four co-op I learnt a lot about the software industry such as communicating with customers, interacting with others and working in a team. I am going to be breaking down different companies I was working for, different contract I was doing on the side and my advice     for other co op students .&lt;br&gt;
+      
+      </description>
+      
+      <comments>http://blog.williampring.com/2017/09/02/Internship-Reflection/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
